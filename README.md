@@ -1,4 +1,4 @@
 # coderscomputer
 
 ##
-+ h
+<learn more>(http://wikipedia.com)
