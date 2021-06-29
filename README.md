@@ -1,5 +1,4 @@
 # coderscomputer
 
 ##
-*
-* gg
+> g
